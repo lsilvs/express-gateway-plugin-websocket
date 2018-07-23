@@ -1,0 +1,23 @@
+{
+  "name": "express-gateway-plugin-websocket",
+  "version": "0.1.0",
+  "description": "Websocket plugin for express-gateway",
+  "keywords": [
+    "express-gateway",
+    "websocket"
+  ],
+  "homepage": "https://github.com/lsilvs/express-gateway-plugin-websocket#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsilvs/express-gateway-plugin-websocket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lsilvs/express-gateway-plugin-websocket/issues"
+  },
+  "author": "Lucas Silvestre",
+  "license": "GPL-3.0",
+  "main": "manifest.js",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
